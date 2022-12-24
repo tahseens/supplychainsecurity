@@ -1,3 +1,7 @@
+What is Artifact Repository
+
+A repo where build artifacts can be stored. Example of build artifacts can be binaries, container images etc.
+
 Why use Artifact Repository
 
-What is Artifact Repository
+To have trusted place from where deployments can fetch binaries.
