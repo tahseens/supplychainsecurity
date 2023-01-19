@@ -4,7 +4,7 @@ A repo where build artifacts can be stored. Example of build artifacts can be bi
 
 Why use Artifact Repository
 
-To have trusted place from where deployments can fetch binaries. single source of truth
+To have trusted place from where deployments can fetch binaries.
 Not to be dependent on a third party on the Internet.
 Have control over who can access
 Scan the artifacts for known vulnerabilities
